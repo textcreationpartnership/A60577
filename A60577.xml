@@ -1,0 +1,344 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse against transubstantiation. By William Salmon professor of Physick, living at the Blew-balcony by the Ditch-side near Holbourn-Bridge, London</title>
+            <author>Salmon, William, 1644-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60577</idno>
+            <idno type="STC">Wing S424</idno>
+            <idno type="STC">ESTC R218616</idno>
+            <idno type="EEBO-CITATION">99830193</idno>
+            <idno type="PROQUEST">99830193</idno>
+            <idno type="VID">34643</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60577)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34643)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2019:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse against transubstantiation. By William Salmon professor of Physick, living at the Blew-balcony by the Ditch-side near Holbourn-Bridge, London</title>
+                  <author>Salmon, William, 1644-1713.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Baldwin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 1: A discourse against transubstantiation, &amp;c.</note>
+                  <note>Copy appears to have format 4⁰; bound with larger works in 4⁰.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Transubstantiation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34643:1" rendition="simple:additions"/>
+            <p>A DISCOURSE AGAINST <hi>Tranſubſtantiation.</hi>
+            </p>
+            <p>By <hi>WILLIAM SALMON</hi> Pro<g ref="char:EOLhyphen"/>feſſor of <hi>Phyſick,</hi> living at the <hi>Blew-balcony</hi> by the <hi>Ditch-ſide</hi> near <hi>Holbourn-Bridge, London.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Baldwin,</hi> 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:34643:2"/>
+            <pb n="1" facs="tcp:34643:2"/>
+            <head>A DISCOURSE AGAINST Tranſubſtantiation, <hi>&amp;c.</hi>
+            </head>
+            <sp>
+               <speaker>Pro.</speaker>
+               <p>MY firſt Argument is drawn from the veracity and faithfulneſs of God, from thence affirming, That the Bread and Wine after the words of Conſecration are no God, but an Idol. Inorder to the proving of this, you muſt grant me two Propoſitions.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>Let's hear your Propoſitions.</p>
+            </sp>
+            <sp>
+               <speaker>Pro.</speaker>
+               <p>I affirm, that God is true, juſt, faithful, keeps promiſe, and cannot lye or contradict himſelf: this is the firſt propoſition.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>I grant it; it is impiety to ſay the contrary.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>The ſecond Propoſition is, That the Bread and Wine are no God before the words of Conſecra<g ref="char:EOLhyphen"/>tion, <hi>viz.</hi> That it is not that very Body and Blood of our Lord and Savior Jeſus Chriſt, which was born of the Virgin <hi>Mary,</hi> and ſuffered without the Gates of <hi>Jeruſalem.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>You ſay right. For if it was that before the words of Conſecration, there would be no need for the Prieſt to conſecrate it, and make it that. What I pray do you infer from thence?</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>I infer this, that the Bread and Wine before
+<pb n="2" facs="tcp:34643:3"/>Conſecration, are no God, nor any thing like a God, but another thing than God.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>I grant it, it is another thing and not God.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>Now you have deſtroyed your own Tenet, for by the granting theſe two Propoſitions, you have over<g ref="char:EOLhyphen"/>turned the Omnipotency of your Idol or breaden God.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>Which way I pray you, with all your Wit?</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>You have granted by the ſecond Propoſition, that the Bread and Wine were no God, before the words of Conſecration, but another thing than God. And by the firſt Propoſition, That God is true, juſt, faith<g ref="char:EOLhyphen"/>ful, keeps promiſe, and cannot lye or contradict him<g ref="char:EOLhyphen"/>ſelf, now the Lord himſelf has ſaid, <hi>Iſa.</hi> 42.8. <hi>I am the Lord, that is my name, I will not give my glory to another, nor my praiſe to Graven Images.</hi> You have granted the Bread and Wine to be another thing than God before the Words of Conſecration, and he has promiſed, that he will not give his Glory to another, or any thing beſides himſelf, which he muſt do in the higheſt and largeſt ſenſe, if he makes any created Being, either himſelf, or, equal to himſelf. Whereby, againſt the contents of the firſt Propoſition you charge God unjuſt<g ref="char:EOLhyphen"/>ly, with falſhood, lying, injuſtice, breach of promiſe, and the greateſt contradiction: which is the higheſt of In<g ref="char:EOLhyphen"/>dignities you can put upon the great Creator and Fa<g ref="char:EOLhyphen"/>bricator of all things; and the greateſt impiety which can be acted on your part.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>Enough of your firſt Argument, what is the ſecond?</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>It ariſes from the Grammatical Conſtruction of the Words <hi>hoc eſt corpus meum.</hi> This is my body: it is this, That a Noun Subſtantive of the maſculine or feminine Gender, if not expreſt but underſtood (except only the word Thing) is never denoted by a neuter Article or Ad<g ref="char:EOLhyphen"/>jective. In order to the proving of this, you muſt grant me theſe two Propoſitions.</p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:34643:3"/>
+               <speaker>Papiſt.</speaker>
+               <p>What are they, in the Name of the Hoſt?</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>My firſt Propoſition is this. That all Ad<g ref="char:EOLhyphen"/>jectives muſt agree with their Subſtantives in Number, Caſe and Gender, whether expreſſed or underſtood, except in the word Thing.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>That is true, for it is a common and plain Grammatical Rule.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>My ſecond Propoſition is this, That where<g ref="char:EOLhyphen"/>ever a Neuter Article or Adjective is found, without it's Subſtantive expreſt, except it be put ſubſtantively, it is always to be conſtrued, with a Neuter Subſtantive underſtood, or the word <hi>Thing,</hi> otherwiſe it will be pure Non-ſenſe.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>This is true Grammar, or elſe I underſtand nothing of <hi>Greek</hi> or <hi>Latine;</hi> but what is this to Divi<g ref="char:EOLhyphen"/>nity?</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>You know the words which you uſe in Conſe<g ref="char:EOLhyphen"/>cration are in <hi>Greek</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. in <hi>Latin, hoc eſt corpus meum:</hi> in Engliſh, <hi>This is my Body.</hi> Where if <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Panis, Bread,</hi> be underſtood to be conſtrued with [<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>hoc</hi>] it is pure Nonſence by the ſecond Propoſi<g ref="char:EOLhyphen"/>tion, like <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>hoc panis,</hi> a Maſculine and a Neuter together: and againſt a common and plain Grammar rule by the firſt Propoſition, which to maintain ſhews a deficiency in Scholarſhip, and firſt Rudiments of Learning.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>This is a Quibble, but proceed to your third Argument.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>My third Argument is taken from the nature and definition of a Sacrament, which we will fetch from your own Popiſh Authors, not from Proteſtants. And becauſe we will not trouble the unlearned with <hi>Bellarmine,</hi> and other abſtruſe Doctors of the <hi>Romiſh Church,</hi> not intelligible with the Vulgar, we will take our Text no higher than either the <hi>Doway</hi> Catechiſm; Or, that late Abſtract of it, Printed by <hi>Henry Hills</hi> the Kings Printer.</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:34643:4"/>
+               <speaker>Papiſt.</speaker>
+               <p>Let us hear this your mighty Argument.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>The firſt propoſition is this. That the ſign of a thing and the thing it ſelf, are two different things: Or, that the ſign of a thing and the thing ſignified, are no more the ſame, than the <hi>Type,</hi> and the <hi>Antitype:</hi> Or the Sign of the <hi>Kings-head</hi> in <hi>Holborn,</hi> and the Kings Head it ſelf; which in the great ſolem<g ref="char:EOLhyphen"/>nity of the Coronation at <hi>Weſtminſter,</hi> was adorned with the Royal Diadem.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>You are very much in the right, or elſe I am in the wrong.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>I grant both, and therefore we will pro<g ref="char:EOLhyphen"/>ceed.</p>
+            </sp>
+            <sp>
+               <speaker>Papist.</speaker>
+               <p>What is the ſecond Propoſition?</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>It is this. <hi>That a Sacrament in general is a viſible ſign of an inviſible Grace inſtituted by Chriſt for our Sancti<g ref="char:EOLhyphen"/>fication.</hi> This is the definition of a Sacrament, as it is taken word for word out of the <hi>Doway</hi> Catechiſm, and other of your own approved Authors.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>It is ſo. For you have taken it word for word out of <hi>Henry Hills</hi> his Abſtract of the ſaid <hi>Doway</hi> Catechiſm, very lately Printed, and given about the Streets of the City; and ſo I ſhall not deny it, for I verily believe you have it in your Pocket to prove it, and to diſprove me, if I ſhould gain ſay it: But had it not been for that ſilly little Book, I ſhould have put you to the proof of it.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>So you may yet if you pleaſe: but then you ſhould ſee, that I would as eaſily prove this definition of a Sacrament out of <hi>Bellarmin,</hi> and other Popiſh Authors, as now I do it out of the <hi>Doway</hi> Catechiſm.</p>
+            </sp>
+            <sp>
+               <speaker>Pap.</speaker>
+               <p>Hereticks can turn the beſt things to an ill uſe; and like Spiders draw damnable Poyſons out of Anti<g ref="char:EOLhyphen"/>dotes: but let's hear how you will lay your Propoſitions together.</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:34643:4"/>
+               <speaker>Prot.</speaker>
+               <p>By the ſecond Propoſition you grant me, That a Sacrament is no more than a Viſible ſign: and by the firſt Propoſition, you grant that the ſign and the thing ſignified cannot be one and the ſame thing, but two different things. From whence I infer, That if the Sacrament be but a ſign of Chriſt's Body offered up, and broken for us; then it cannot be the thing, <hi>viz.</hi> Chriſts body it ſelf; but differs as much from the Body of Chriſt, as the Type does from the Antitype; Or, a ſhadow from the Subſtance. And from hence it appears, that whilſt you worſhip that for a God which is no God, you worſhip an Idol, and by that Act, become Idolaters.</p>
+            </sp>
+            <sp>
+               <speaker>Papist.</speaker>
+               <p>This Argument ſeems to be cloſe and cun<g ref="char:EOLhyphen"/>ningly laid, and may do us much harm in time if not overthrown. But proceed to another Argument.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>My fourth and laſt Argument which I will uſe in this place, is taken from the nature of a Body compared with a Place with relation to Time.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>Sure this muſt be ſome wonderful diſcourſe.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>I'le manage it as wonderfully, if I can. My firſt Propoſition is this. One and the ſame body, in one and the ſame place, at one and the ſame time, cannot be two diſtinct bodies of equal magnitude and ſhape and both ſingly and together, be one and the ſame Body in the ſame place, and the ſame time.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>This is true. One and the ſame Sow, in one and the ſame Place, at one and the ſame Time, cannot be two diſtinct Sows of equal magnitude and ſhape, and both ſingly and together be juſt equal to, and be the ſame Sow, in the ſame ſpace of Place, at the very ſame time. I know no body can contend for a thing ſo unreaſonable, which our Senſes alone are able to convince us of as manifeſtly falſe.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>I am glad you will grant ſomething. My ſe<g ref="char:EOLhyphen"/>cond Propoſition is this. That the Body of our Lord and Saviour Jeſus Chriſt, at his laſt Supper, when he held
+<pb n="6" facs="tcp:34643:5"/>the Bread in his Hand, afterward the Words of Conſecra<g ref="char:EOLhyphen"/>tion, did not take up the ſame ſpace of Place, at the ſame time, which the Bread did after the Conſecration, which he held in his Hand, and between his Fingers.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>What Inference do you draw from bence?</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>Since by the ſecond Propoſition, the real and true body of our Lord, which was born of the Virgin <hi>Mary,</hi> did not ſubſiſt in the ſame ſpace of Place, and in the ſame time, which the bread (after the words of Con<g ref="char:EOLhyphen"/>ſecration) did: And ſince by the firſt propoſition, tha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> body which does not take up the ſame ſpace of Place at the ſame time, cannot be the ſame body: it fol<g ref="char:EOLhyphen"/>lows, that the bread (after the words of Conſecration) was no more that very ſame body that was born of the <hi>Virgin Mary,</hi> than it was before the ſaid words of Conſecration were ſpoken: from whence I conclude that worſhipping it, <hi>viz.</hi> the Bread or Hoſt, as you call it, you worſhip a damnable Idol, and no God.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>But we expound the Euchariſt or Sacrament otherwiſe.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>No you do not. For in <hi>Henry Hills</hi> his Ab<g ref="char:EOLunhyphen"/>ſtract of the <hi>Doway</hi> Catechiſm, Pag. 48, you ſay, <hi>I<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> is the Body and Blood of Jeſus Chriſt, true God, and tru<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Man, whole Chriſt, under the likeneſs and outward ſhape o<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Bread, the true and real preſence of his divine and <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> nature, and not ſignificatively. only, as Hereticks woul<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> have it.</hi> Which whether any thing can be more bla<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>phemous I leave to the Rational and Prudent Man t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> judge. From this Argument, Chriſt muſt have ha<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> two Bodies at one and the ſame time, each of whi<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> was whole Chriſt, of the ſame magnitude, and y<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> both but one and the ſame Body: which two Bod<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> were alſo in two different places, which two places we<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> but one and the ſame ſpace of Place: and at ſeveral as different times, which were alſo, but one and the ſam<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> time. This is pure and exalted Non-ſenſe in the Ab<g ref="char:EOLhyphen"/>ſtract.</p>
+            </sp>
+            <closer>
+               <signed>William Salmon</signed>
+            </closer>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:34643:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
